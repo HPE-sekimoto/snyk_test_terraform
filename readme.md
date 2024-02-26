@@ -1,51 +1,20 @@
-# Terraform AWS S3 bucket
+# Terraform Projects for SNYK test
 
 ## Overview
 
-This is a sample to create AWS S3 bucket.
+The repository includes terraform projects for SNYK test
 
 ## Prerequisites
 
-Prepare a dummy file to upload to blob storage
-Default is dummy.txt
+TBD
 
 ## Usage
 
+TBD
+
 ### Setup
 
-1. How to configure necessary credentials
-
-```
-aws configure
-```
-
-2. How to initialize the project with `terraform init`
-
-### Deployment
-
-1. How to execute `terraform plan` and what output to expect
-2. How to apply the configuration with `terraform apply` and the deployment process
-
-### Destruction
-
-1. How to clean up resources with `terraform destroy`
-
-## Input Variables
-
-List and describe the main input variables used in the project.
-
-| Variable Name  | Description               | Default Value  |
-|----------------|---------------------------|----------------|
-| `region` | AWS region | `ap-northeast-1` |
-| `bucket_name` | Name of the S3 bucket | `ks-snyk-test` |
-
-## Output Variables
-
-List of variables outputted by the project and their descriptions.
-
-| Variable Name | Description             |
-|---------------|-------------------------|
-| `aws_s3_bucket.my_bucket.arn` | ARN of the bucket |
+TBD
 
 ## License
 
